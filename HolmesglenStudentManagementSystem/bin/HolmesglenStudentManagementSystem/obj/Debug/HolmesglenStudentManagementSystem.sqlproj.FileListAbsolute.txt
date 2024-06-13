@@ -1,0 +1,9 @@
+/Users/wiley/Library/CloudStorage/OneDrive-HolmesglenInstitute/C#/AssessmentTask2/Project2/HolmesglenStudentManagementSystem/bin/HolmesglenStudentManagementSystem/bin/Debug/HolmesglenStudentManagementSystem.dacpac
+/Users/wiley/Library/CloudStorage/OneDrive-HolmesglenInstitute/C#/AssessmentTask2/Project2/HolmesglenStudentManagementSystem/bin/HolmesglenStudentManagementSystem/bin/Debug/HolmesglenStudentManagementSystem.dll
+/Users/wiley/Library/CloudStorage/OneDrive-HolmesglenInstitute/C#/AssessmentTask2/Project2/HolmesglenStudentManagementSystem/bin/HolmesglenStudentManagementSystem/bin/Debug/HolmesglenStudentManagementSystem.pdb
+/Users/wiley/Library/CloudStorage/OneDrive-HolmesglenInstitute/C#/AssessmentTask2/Project2/HolmesglenStudentManagementSystem/bin/HolmesglenStudentManagementSystem/obj/Debug/Model.xml
+/Users/wiley/Library/CloudStorage/OneDrive-HolmesglenInstitute/C#/AssessmentTask2/Project2/HolmesglenStudentManagementSystem/bin/HolmesglenStudentManagementSystem/obj/Debug/refactor.xml
+/Users/wiley/Library/CloudStorage/OneDrive-HolmesglenInstitute/C#/AssessmentTask2/Project2/HolmesglenStudentManagementSystem/bin/HolmesglenStudentManagementSystem/obj/Debug/postdeploy.sql
+/Users/wiley/Library/CloudStorage/OneDrive-HolmesglenInstitute/C#/AssessmentTask2/Project2/HolmesglenStudentManagementSystem/bin/HolmesglenStudentManagementSystem/obj/Debug/predeploy.sql
+/Users/wiley/Library/CloudStorage/OneDrive-HolmesglenInstitute/C#/AssessmentTask2/Project2/HolmesglenStudentManagementSystem/bin/HolmesglenStudentManagementSystem/obj/Debug/HolmesglenStudentManagementSystem.dll
+/Users/wiley/Library/CloudStorage/OneDrive-HolmesglenInstitute/C#/AssessmentTask2/Project2/HolmesglenStudentManagementSystem/bin/HolmesglenStudentManagementSystem/obj/Debug/HolmesglenStudentManagementSystem.pdb

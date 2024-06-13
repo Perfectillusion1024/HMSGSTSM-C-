@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "X6a9UiQANFg=",
+  "success": true,
+  "projectFilePath": "/Users/wiley/Library/CloudStorage/OneDrive-HolmesglenInstitute/C#/AssessmentTask2/Project2/HolmesglenStudentManagementSystem/bin/HolmesglenStudentManagementSystem/HolmesglenStudentManagementSystem.sqlproj",
+  "expectedPackageFiles": [
+    "/Users/wiley/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.0/microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "/Users/wiley/.nuget/packages/microsoft.netframework.referenceassemblies.net46/1.0.0/microsoft.netframework.referenceassemblies.net46.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

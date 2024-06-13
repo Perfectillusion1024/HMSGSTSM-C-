@@ -1,0 +1,6 @@
+{
+    "dataworkspace.excludedProjects": [
+        "bin/HolmesglenStudentManagementSystem/HolmesglenStudentManagementSystem.sqlproj",
+        "Stundet/Stundet.sqlproj"
+    ]
+}
